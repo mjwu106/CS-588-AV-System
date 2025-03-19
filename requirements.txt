@@ -1,0 +1,19 @@
+opencv-python
+numpy
+scipy
+matplotlib
+torch
+shapely
+klampt==0.9.2
+pyyaml
+dacite
+
+# Perception
+ultralytics
+lap==0.5.12
+open3d
+
+#infra
+msal
+parameterized
+requests
